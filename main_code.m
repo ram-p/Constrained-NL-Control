@@ -1,6 +1,6 @@
 % This code implements the algorithm in the paper "Ignore Drift, Embrace
 % Simplicity: Constrained Nonlinear Control through Driftless
-% Approximations". 
+% Approximation" on https://arxiv.org/abs/2509.06188.
 % 
 % The results of this code exactly duplicate Example 2 in the paper, for
 % the forced Van der Pol oscillator. Modifying the code for a particular
